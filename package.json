@@ -1,0 +1,22 @@
+{
+  "name": "react-native-beauti-image-picker",
+  "version": "1.0.0",
+  "description": "crop image picker",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wwx193433/react-native-image-crop-picker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wwx193433/react-native-image-crop-picker/issues"
+  },
+  "homepage": "https://github.com/wwx193433/react-native-image-crop-picker#readme"
+}
