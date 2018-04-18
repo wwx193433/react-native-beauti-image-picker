@@ -1,7 +1,7 @@
 {
   "name": "react-native-beauti-image-picker",
   "version": "1.0.0",
-  "description": "crop image picker",
+  "description": "iOS/Android image picker with support for camera, configurable compression, multiple images and cropping",
   "main": "index.js",
   "directories": {
     "example": "example"
@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wwx193433/react-native-image-crop-picker.git"
+    "url": "git+https://github.com/wwx193433/react-native-beauti-image-picker.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wwx193433/react-native-image-crop-picker/issues"
+    "url": "https://github.com/wwx193433/react-native-beauti-image-picker/issues"
   },
-  "homepage": "https://github.com/wwx193433/react-native-image-crop-picker#readme"
+  "homepage": "https://github.com/wwx193433/react-native-beauti-image-picker#readme"
 }
