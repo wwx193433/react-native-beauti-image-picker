@@ -1,6 +1,6 @@
 {
   "name": "react-native-beauti-image-picker",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "iOS/Android image picker with support for camera, configurable compression, multiple images and cropping",
   "main": "index.js",
   "directories": {
